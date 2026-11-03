@@ -1,0 +1,13 @@
+Package: terminalmath
+Version: 1.0
+Architecture: all
+Maintainer: HARDWAREANDSOFTWARE26(vedsprabhudesai@gmail.com, https://youtube.com/@HARDWAREANDSOFTWARE26-C
+Filename: pool/main/terminalmath.deb
+Size: 1148
+MD5sum: 5cd291b42714331ab05945d91a870510
+SHA1: 40fcf71e6da77778d35f0c4b37ae5f9ce61b5f4f
+SHA256: 5e0fa90d8ab45536d1b204c8666ddf727b4edc0ed86cd575605c8db148b13558
+Section: math
+Priority: optional
+Description: A terminal mathematics application maintained and developed by HARDWAREANDSOFTWARE26.
+
